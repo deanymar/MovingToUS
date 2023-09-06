@@ -1,0 +1,56 @@
+﻿Code,State,IsCompact
+US-AL,Alabama,Yes
+US-AZ,Arizona,Yes
+US-AR,Arkansas,Yes
+US-CO,Colorado,Yes
+US-DE,Delaware,Yes
+US-FL,Florida,Yes
+US-GA,Georgia,Yes
+GU,Guam,Yes
+US-ID,Idaho,Yes
+US-IN,Indiana,Yes
+US-IA,Iowa,Yes
+US-KS,Kansas,Yes
+US-KY,Kentucky,Yes
+US-LA,Louisiana,Yes
+US-ME,Maine,Yes
+US-MD,Maryland,Yes
+US-MS,Mississippi,Yes
+US-MO,Missouri,Yes
+US-MT,Montana,Yes
+US-NE,Nebraska,Yes
+US-NH,New Hampshire,Yes
+US-NJ,New Jersey,Yes
+US-NM,New Mexico,Yes
+US-NC,North Carolina,Yes
+US-ND,North Dakota,Yes
+US-OH,Ohio,Yes
+US-OK,Oklahoma,Yes
+US-PA,Pennsylvania,Yes
+US-SC,South Carolina,Yes
+US-SD,South Dakota,Yes
+US-TN,Tennessee,Yes
+US-TX,Texas,Yes
+US-UT,Utah,Yes
+US-VT,Vermont,Yes
+US-VA,Virginia,Yes
+VI,United States Virgin Islands,Yes
+US-WV,West Virginia,Yes
+US-WI,Wisconsin,Yes
+US-WY,Wyoming,Yes
+US-IL,Illinois,Waiting
+US-MA,Massachusetts,Waiting
+US-MI,Michigan,Waiting
+US-MN,Minnesota,Waiting
+US-NY,New York,Waiting
+US-RI,Rhode Island,Waiting
+US-WA,Washington,Waiting
+US-AK,Alaska,No
+AS,American Samoa,No
+US-CA,California,No
+US-CT,Connecticut,No
+US-HI,Hawaii,No
+MP,Northern Mariana Islands,No
+US-NV,Nevada,No
+US-OR,Oregon,No
+US-DC,"Washington, D.C.",No
