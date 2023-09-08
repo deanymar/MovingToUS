@@ -1,0 +1,51 @@
+State Code,state,TotalScore,Affordability,EducationAndChildCare,FamilyFun,HealthAndSafety,Socioeconomics
+US-MA,Massachusetts,66.14,2,2,9,5,22
+US-MN,Minnesota,62.07,7,12,13,8,5
+US-NY,New York,61.11,6,14,2,9,46
+US-ND,North Dakota,59.6,16,1,32,16,1
+US-VT,Vermont,59.27,26,7,46,1,2
+US-NH,New Hampshire,58.17,22,5,36,3,8
+US-NJ,New Jersey,58.14,3,3,23,13,25
+US-NE,Nebraska,57.95,24,6,19,10,6
+US-IA,Iowa,57.05,9,9,31,14,10
+US-CT,Connecticut,57.03,1,8,29,7,31
+US-RI,Rhode Island,56.95,4,19,27,4,27
+US-WA,Washington,56.3,5,31,8,23,19
+US-IL,Illinois,55.49,11,25,4,29,45
+US-SD,South Dakota,55.45,25,11,30,12,7
+US-UT,Utah,55.25,33,15,18,19,4
+US-ME,Maine,55.01,32,4,45,2,14
+US-WI,Wisconsin,54.86,13,13,21,25,11
+US-PA,Pennsylvania,53.89,17,24,11,21,20
+US-MD,Maryland,53.39,8,10,25,17,36
+US-CO,Colorado,53.34,19,32,7,31,15
+US-VA,Virginia,52.6,20,17,28,15,17
+US-CA,California,52.04,21,45,1,32,40
+US-HI,Hawaii,51.36,40,33,15,6,23
+US-OR,Oregon,50.55,14,40,10,20,26
+US-MT,Montana,50.49,46,18,34,24,3
+US-TX,Texas,49.71,35,29,3,47,44
+US-WY,Wyoming,49.6,45,16,37,11,12
+US-KS,Kansas,49.21,18,22,38,35,13
+US-MO,Missouri,49.21,27,23,22,34,16
+US-DE,Delaware,47.91,12,21,44,22,38
+US-OH,Ohio,47.69,15,36,16,28,42
+US-FL,Florida,47.28,50,30,6,39,35
+US-TN,Tennessee,46.17,30,26,20,40,24
+US-IN,Indiana,45.77,23,27,33,38,18
+US-ID,Idaho,45.74,44,43,39,18,9
+US-MI,Michigan,45.51,10,41,41,26,28
+US-KY,Kentucky,45.4,28,20,43,30,34
+US-AK,Alaska,44.74,37,44,17,27,21
+US-NC,North Carolina,43.11,39,37,24,37,29
+US-NV,Nevada,41.41,49,49,5,42,48
+US-AZ,Arizona,40.4,48,48,12,36,33
+US-GA,Georgia,40.24,41,35,26,46,41
+US-OK,Oklahoma,38.48,31,39,40,48,43
+US-AR,Arkansas,38.47,34,28,48,45,32
+US-AL,Alabama,37.38,29,38,47,44,37
+US-SC,South Carolina,37.16,38,46,42,41,39
+US-LA,Louisiana,36.8,36,47,14,49,49
+US-WV,West Virginia,34.86,43,42,50,33,30
+US-NM,New Mexico,30.78,47,50,35,43,47
+US-MS,Mississippi,30.01,42,34,49,50,50
