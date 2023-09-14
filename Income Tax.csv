@@ -1,0 +1,52 @@
+﻿State Code,State,Has Income Tax
+US-AK,Alaska,No
+US-FL,Florida,No
+US-NV,Nevada,No
+US-SD,South Dakota,No
+US-TN,Tennessee,No
+US-TX,Texas,No
+US-WY,Wyoming,No
+US-AZ,Arizona,No
+US-CO,Colorado,Yes
+US-ID,Idaho,Yes
+US-IL,Illinois,Yes
+US-IN,Indiana,Yes
+US-KY,Kentucky,Yes
+US-MI,Michigan,Yes
+US-MS,Mississippi,Yes
+US-NH,New Hampshire,Yes
+US-NC,North Carolina,Yes
+US-PA,Pennsylvania,Yes
+US-UT,Utah,Yes
+US-WA,Washington,Yes
+US-AL,Alabama,Yes
+US-AR,Arkansas,Yes
+US-CA,California,Yes
+US-CT,Connecticut,Yes
+US-DE,Delaware,Yes
+US-GA,Georgia,Yes
+US-HI,Hawaii,Yes
+US-IA,Iowa,Yes
+US-KS,Kansas,Yes
+US-LA,Louisiana,Yes
+US-ME,Maine,Yes
+US-MD,Maryland,Yes
+US-MA,Massachusetts,Yes
+US-MN,Minnesota,Yes
+US-MO,Missouri,Yes
+US-MT,Montana,Yes
+US-NE,Nebraska,Yes
+US-NJ,New Jersey,Yes
+US-NM,New Mexico,Yes
+US-NY,New York,Yes
+US-ND,North Dakota,Yes
+US-OH,Ohio,Yes
+US-OK,Oklahoma,Yes
+US-OR,Oregon,Yes
+US-RI,Rhode Island,Yes
+US-SC,South Carolina,Yes
+US-VT,Vermont,Yes
+US-VA,Virginia,Yes
+US-WV,West Virginia,Yes
+US-WI,Wisconsin,Yes
+US-DC,"Washington, D.C.",Yes
